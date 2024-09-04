@@ -1,0 +1,20 @@
+/* Dynamic shadow effect based on time */
+.shadow-green {
+  box-shadow: 0 0 18px rgba(118, 255, 6, 0.911);
+}
+
+.shadow-yellow {
+  box-shadow: 0 0 18px rgba(255, 239, 14, 0.904);
+}
+
+.shadow-red {
+  box-shadow: 0 0 18px rgba(243, 13, 13, 0.849);
+}
+
+.b {
+    border: 2px solid rgb(200, 203, 219);
+}
+
+.icon {
+    box-shadow: 0 0 14px;
+}
